@@ -81,7 +81,6 @@ These systems are deployed via scalable APIs, Docker containers, and CI/CD pipel
 ## 🌱 Beyond Work
 
 - 🤝 Volunteering – Donated 4.5+ tonnes of clothes with NSS, hosted POSH awareness drives for 3K+ students
-- 🔫 Air gun shooting enthusiast | 🍳 Cooking | 📚 Reading | 🎵 Music
 
 ---
 
